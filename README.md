@@ -1,4 +1,4 @@
-![Banner](https://github.com/Emmanuellsensai/ideas-for-readme/blob/main/Assets/github-banner.png)
+![Banner](https://github.com/Emmanuellsensai/Emmanuellsensai/blob/main/Assets/github-banner.png)
 
 # Hi 👋, I'm **Usang Emmanuel**
 ### An aspiring Full-Stack Developer passionate about building real-world solutions 🚀💻
