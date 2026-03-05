@@ -66,12 +66,11 @@ I'm passionate about building **efficient and practical applications** that solv
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuellsensai&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emmanuellsensai&theme=tokyonight" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuellsensai&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
