@@ -4,6 +4,7 @@
 # Hi 👋, I'm **Usang Emmanuel**
 ### An aspiring Full-Stack Developer passionate about building real-world solutions 🚀💻
 *(GitHub: [@Emmanuellsensai](https://github.com/Emmanuellsensai))*
+
 *(Portfolio web: [emmanuellsensai.com](https://emmanuellsensai.github.io))*
 
 ---
