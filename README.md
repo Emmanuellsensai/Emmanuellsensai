@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Emmanuellsensai/ideas-for-readme/blob/main/Assets/github-banner.png)
 
-# Hi 👋, I'm **Emmanuell Sensai**
+# Hi 👋, I'm **Usang Emmanuel**
 ### An aspiring Full-Stack Developer passionate about building real-world solutions 🚀💻
 *(GitHub: [@Emmanuellsensai](https://github.com/Emmanuellsensai))*
 
