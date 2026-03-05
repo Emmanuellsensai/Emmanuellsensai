@@ -55,8 +55,13 @@ I'm passionate about building **efficient and practical applications** that solv
 </p>
 
 ---
+##  🐍 Contribution Snake
 
-https://github.com/Emmanuellsensai/Emmanuellsensai/blob/output/github-snake.svg
+<div align="center">
+
+![snake gif](https://github.com/Emmanuellsensai/Emmanuellsensai/blob/output/github-snake.svg)
+
+</div>
 
 ## 📊 GitHub Stats
 
