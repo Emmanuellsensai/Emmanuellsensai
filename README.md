@@ -77,7 +77,7 @@ I'm passionate about building **efficient and practical applications** that solv
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuellsensai&theme=onestar&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuellsensai&theme=tokyonight&margin-w=10&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </p>
 
 ---
