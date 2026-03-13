@@ -79,9 +79,15 @@ I'm passionate about building **efficient and practical applications** that solv
 
 ## 🎖️ GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/?username=Emmanuellsensai&theme=tokyonight" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuellsensai&theme=tokyonight&margin-w=10&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers"/>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Emmanuellsensai?tab=achievements">
+    <img src="https://img.shields.io/badge/⚡%20Quickdraw-GitHub%20Achievement-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-GitHub%20Achievement-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/👥%20Pair%20Extraordinaire-GitHub%20Achievement-blue?style=for-the-badge"/>
+  </a>
+</p>
 ---
 
 ## 📚 Currently Exploring
