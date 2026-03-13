@@ -79,16 +79,14 @@ I'm passionate about building **efficient and practical applications** that solv
 
 ## 🎖️ GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emmanuellsensai&theme=tokyonight&margin-w=10&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire"/>
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
 </p>
-<p align="center">
-  <a href="https://github.com/Emmanuellsensai?tab=achievements">
-    <img src="https://img.shields.io/badge/⚡%20Quickdraw-GitHub%20Achievement-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-GitHub%20Achievement-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/👥%20Pair%20Extraordinaire-GitHub%20Achievement-blue?style=for-the-badge"/>
-  </a>
-</p>
----
 
 ## 📚 Currently Exploring
 
