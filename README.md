@@ -1,6 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Emmanuellsensai/Emmanuellsensai/main/assets/github-banner.png)
 
-
 # Hi 👋, I'm **Usang Emmanuel**
 ### An aspiring Full-Stack Developer passionate about building real-world solutions 🚀💻
 *(GitHub: [@Emmanuellsensai](https://github.com/Emmanuellsensai))*
