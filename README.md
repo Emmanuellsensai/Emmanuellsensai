@@ -14,16 +14,18 @@ I'm a **developer in training** with a growing foundation in **backend developme
 I'm passionate about building **efficient and practical applications** that solve real problems — one project at a time.
 
 - 🔭 **Currently working on:**
-  - **Sudoku Solver** — a logic-based puzzle solver built in Go.  
-    🔗 *Repo:* [sudoku](https://github.com/Emmanuellsensai/sudoku)
-  - **User Authentication System** — a secure login/signup system built with Python.  
-    🔗 *Repo:* [User-Authentication-system](https://github.com/Emmanuellsensai/User-Authentication-system)
+  - **Pitchside**: a live World Cup match companion app (reactive animated pitch, real-time alerts, momentum meters, and a multiplayer Fan Zone), built for the Superteam/TxODDS hackathon.
+  - **Toolzng**: an academic formatting tool for Nigerian students ([toolzng.me](https://toolzng.me)), Go backend, with ongoing feature work.
+
+- 🏆 **Recent wins:**
+  - Won the **Midnight Network Eclipse Content Bounty** (issue #308): a technical tutorial on the Proof Server and Indexer.
+  - Active bounty work across **GrantFox** and **Stellar Wave** (Explorer tier).
 
 - 👯 **I'm looking to collaborate on:**  
   [QuadChecker](https://github.com/Emmanuellsensai/QUADCHECKER) — a Go-based shape recognition project.
 
 - 🌱 **Currently learning:**  
-  **Go (Golang)** | **Python** | **Data Structures & Algorithms** | **Backend Development**
+  Concurrent Go patterns, Web3/blockchain tooling (Midnight Network, Solana), and AI-assisted dev workflows.
 
 - 💬 **Ask me about:**  
   **Go (Golang)**, **Python**, **Algorithms**, or anything beginner-to-intermediate dev related
