@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/Emmanuellsensai/Emmanuellsensai/main/assets/github-banner.png)
 
 # Hi 👋, I'm **Usang Emmanuel**
-### An aspiring Full-Stack Developer passionate about building real-world solutions 🚀💻
+### Full-Stack Developer building real-world solutions across web, backend, and Web3 🚀💻
 *(GitHub: [@Emmanuellsensai](https://github.com/Emmanuellsensai))*
 
 *(Portfolio web: [emmanuellsensai.com](https://emmanuellsensai.github.io))*
@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-I'm a **developer in training** with a growing foundation in **backend development**, **algorithms**, and **system design**.  
-I'm passionate about building **efficient and practical applications** that solve real problems — one project at a time.
+I'm a **software engineer** with a solid foundation in **backend development**, **algorithms**, and **system design**.  
+I build **efficient and practical applications** that solve real problems, one project at a time.
 
 - 🔭 **Currently working on:**
   - **Pitchside**: a live World Cup match companion app (reactive animated pitch, real-time alerts, momentum meters, and a multiplayer Fan Zone), built for the Superteam/TxODDS hackathon.
@@ -22,13 +22,13 @@ I'm passionate about building **efficient and practical applications** that solv
   - Active bounty work across **GrantFox** and **Stellar Wave** (Explorer tier).
 
 - 👯 **I'm looking to collaborate on:**  
-  [QuadChecker](https://github.com/Emmanuellsensai/QUADCHECKER) — a Go-based shape recognition project.
+  [QuadChecker](https://github.com/Emmanuellsensai/QUADCHECKER): a Go-based shape recognition project.
 
 - 🌱 **Currently learning:**  
   Concurrent Go patterns, Web3/blockchain tooling (Midnight Network, Solana), and AI-assisted dev workflows.
 
 - 💬 **Ask me about:**  
-  **Go (Golang)**, **Python**, **Algorithms**, or anything beginner-to-intermediate dev related
+  **Go (Golang)**, **Python**, **Algorithms**, **backend systems**, or **Web3 tooling**
 
 - 📫 **How to reach me:**  
   [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?logo=x&logoColor=white&style=flat-square)](https://x.com/emmanuellsensai)
@@ -107,4 +107,4 @@ I'm passionate about building **efficient and practical applications** that solv
 
 ---
 
-⭐ **"Learning New Things — one commit at a time."**
+⭐ **"Building real things, one commit at a time."**
