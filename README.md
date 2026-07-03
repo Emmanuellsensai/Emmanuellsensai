@@ -21,16 +21,22 @@ I build **efficient and practical applications** that solve real problems, one p
   - Won the **Midnight Network Eclipse Content Bounty** (issue #308): a technical tutorial on the Proof Server and Indexer.
   - Active bounty work across **GrantFox** and **Stellar Wave** (Explorer tier).
 
-- 👯 **I'm looking to collaborate on:**  
-  [QuadChecker](https://github.com/Emmanuellsensai/QUADCHECKER): a Go-based shape recognition project.
+## 📝 Recent Blog Posts
+### DEV.To
+- [Why Your Ubuntu Laptop Lags, and How to Fix It for Free](https://dev.to/emmanuellsensai/why-your-ubuntu-laptop-lags-and-how-to-fix-it-for-free-l0n)
+- [Proof Server and Indexer: How Midnight Processes Transactions](https://dev.to/emmanuellsensai/proof-server-and-indexer-how-midnight-processes-transactions-1adn)
+### MEDIUM
+- [Stop Setting Goals... Build a System Instead](https://emmanuellsensai.medium.com/stop-setting-goals-build-a-system-instead-4f721be802d8)
+- [From Zero to GitHub: How to Set Up, Push Code, and Build in Public](https://emmanuellsensai.medium.com/from-zero-to-github-how-to-set-up-push-code-and-build-in-public-d513f3e8fbef)
 
-- 🌱 **Currently learning:**  
+
+🌱 **Currently learning:**  
   Concurrent Go patterns, Web3/blockchain tooling (Midnight Network, Solana), and AI-assisted dev workflows.
 
-- 💬 **Ask me about:**  
+💬 **Ask me about:**  
   **Go (Golang)**, **Python**, **Algorithms**, **backend systems**, or **Web3 tooling**
 
-- 📫 **How to reach me:**  
+📫 **How to reach me:**  
   [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?logo=x&logoColor=white&style=flat-square)](https://x.com/emmanuellsensai)
 
 - ⚡ **Fun fact:**  
