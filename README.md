@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/Emmanuellsensai/Emmanuellsensai/main/assets/github-banner.png)
 
 # Hi, I'm **Usang Emmanuel**
-### Full-Stack Developer building real-world solutions across web, backend, and Web3 🚀💻
+### Full-Stack Developer building real-world solutions across web, backend, and Web3 💻
 *(GitHub: [@Emmanuellsensai](https://github.com/Emmanuellsensai))*
 
 *(Portfolio web: [emmanuellsensai.com](https://emmanuellsensai.github.io))*
